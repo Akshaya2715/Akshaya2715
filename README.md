@@ -182,24 +182,29 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayav&show_icons=true&theme=material-palenight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayav&theme=material-palenight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balavj-927&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balavj-927&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayav&layout=compact&theme=material-palenight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balavj-927&theme=tokyonight" alt="balavj-927" />
+</div>
 
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=akshayav&theme=material-palenight&hide_border=true" width="100%" alt="Activity Graph">
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=balavj-927&theme=tokyonight&row=1&column=7" alt="trophy" />
+</div>
 
-<!-- GitHub Contribution Snake -->
-<p align="center">
-  <img src="https://github.com/akshayav/akshayav/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+---
+
+<div align="center">
+  
+  ### "Building solutions today for a better tomorrow"
+  
+  ![Coding Activity](https://img.shields.io/badge/Coding%20Activity-Always%20Active-brightgreen?style=for-the-badge)
+  
+</div>
+
 
 ## 🌈 Visitor Count
 <p align="center">
