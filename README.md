@@ -180,24 +180,8 @@
   - Web Development for UI/UX
   - Java for Beginners
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balavj-927&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balavj-927&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balavj-927&theme=tokyonight" alt="balavj-927" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=balavj-927&theme=tokyonight&row=1&column=7" alt="trophy" />
-</div>
-
 ---
 
-<div align="center">
   
   ### "Building solutions today for a better tomorrow"
   
