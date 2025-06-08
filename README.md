@@ -20,7 +20,7 @@
 > *A technology enthusiast and quick learner with great interest in exploring new technologies, seeking a challenging environment to work, learn, and add value.*
 
 - 🎓 Pursuing B.E CSE at **National Engineering College** (CGPA: 8.6)
-- 🌱 Currently learning **Flutter** and advanced **React** concepts
+- 🌱 Currently advanced **React** concepts
 - 👩‍💻 Full Stack Developer with a passion for creating elegant user experiences
 - 🎯 Goal: To build innovative solutions that make a positive impact
 - 🎂 Born on January 27, 2005
@@ -67,11 +67,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### Mobile App Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ### Database
@@ -133,15 +128,6 @@
 - Designed an intuitive and visually appealing UI in Figma
 - Emphasized seamless user experience and engaging visual elements
 - Created a comprehensive design system for consistent branding
-- [View Project](#) <!-- Add your project link when available -->
-
-### 🛒 E-Commerce App (Ongoing)
-![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-- Developing a Flutter-based E-Commerce app with intuitive user experience
-- Implementing features for product browsing, cart management, and checkout
-- Creating an admin panel for inventory management and order tracking
 - [View Project](#) <!-- Add your project link when available -->
 
 </div>
