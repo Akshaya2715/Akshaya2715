@@ -1,8 +1,4 @@
 # <div align="center">👩‍💻 AKSHAYA V</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Developer;Full+Stack+Enthusiast;UI%2FUX+Designer;Mobile+App+Developer" alt="Typing SVG" />
-</div>
-
 <p align="center">
   <a href="https://github.com/akshayav?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakshayav&style=for-the-badge&color=blueviolet&logo=github" alt="GitHub Repos">
