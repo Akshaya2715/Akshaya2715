@@ -27,13 +27,13 @@
   <a href="mailto:akshayavenkat05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/akshayav">
+  <a href="https://www.linkedin.com/in/v-akshaya/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/akshayav">
+  <a href="https://github.com/Akshaya2715">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/akshayav">
+  <a href="https://leetcode.com/u/akshaya_279/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
@@ -181,13 +181,3 @@
   
 </div>
 
-<!--
-Custom CSS for enhancing the appearance
--->
-<style>
-.projects-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 20px;
-}
-</style>
